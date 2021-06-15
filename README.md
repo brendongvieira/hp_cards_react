@@ -1,3 +1,24 @@
+# Projeto de ReactJS para o curso da SamsungOcean
+
+### Objetivo: Criar cards utilizando ReactJS.
+
+<p align="center">
+Imagem do projeto:<br />
+ </p>
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/61479907/122127993-61c18780-ce0a-11eb-9b41-53f5136be4c1.png" />
+</p>
+
+<p align="center">
+Design responsivo:<br />
+ </p>
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/61479907/122128016-6ab25900-ce0a-11eb-9356-3ac7e1922d6b.png" />
+</p>
+ 
+ 
+ --------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
