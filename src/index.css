@@ -2,7 +2,7 @@
 
 body {
   background-color: rgb(8, 18, 28);
-  color: rgba(211, 202, 147, 0.562);
+  color: rgba(255, 252, 231, 0.562);
   font-family: "Montserrat", sans-serif;
   background-image: url(https://pradaandpearls.com/wp-content/uploads/2020/12/Ravenclaw-9.png);
 }
@@ -26,7 +26,7 @@ body {
   color: rgb(211, 202, 147);
   text-shadow: 0 1px 6px rgb(32 33 36 / 28%);
   background-color: rgba(11, 24, 38, 0.95);
-  border: 1px solid rgba(153, 211, 221, 0.95);
+  border: 1px solid rgb(211, 202, 147);
   box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
 }
 
